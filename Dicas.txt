@@ -1,0 +1,16 @@
+verificar como validar o Authorization do post/incidents
+
+ * TDD
+ * Jest
+ * Deploy/Implantação
+ 	Heroku (Node - Para app de testes e pequenas) / Digital Ocean (Node - App comerciais)
+ 	Netlify (FrontEnd - Para app de testes e pequenas)
+
+ *Estudos 
+	Padrões de Código, EsLint, Prellier
+	Autenticação JWT
+	Styled Components
+ 
+ * Colocar no Github tudo que vc fizer daqui para frente
+ * Fazer post no linkedin do que vc fez essa semana, descrevendo o que vc desenvolveu, fazer um video e publicação com palavra chaves das tecnologias
+
